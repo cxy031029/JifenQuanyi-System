@@ -1,4 +1,4 @@
-# Points-Benefit-System 积分权益运营系统
+# JifenQuanyi-System 积分权益运营系统
 ## 项目介绍
 基于SpringBoot开发的后端积分管理系统，实现用户积分增减、积分兑换、秒杀、权限管理等业务功能。
 
